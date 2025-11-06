@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Rancho&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+* {
+  font-family: "Rancho", cursive;
+}
+
+span,
+p,
+input,
+label,fieldset,legend {
+  font-family: "Raleway", sans-serif;
+}
+
+.myBtn {
+  @apply bg-[#E3B577] rounded-md btn text-base;
+}
