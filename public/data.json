@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Americano Coffee",
+    "image": "../src/assets/images/1.png",
+    "chef": "Mr. Matin Paul",
+    "supplier": "Cappu Authorizer",
+    "taste": "Sweet and hot",
+    "category": "Americano",
+    "details": "Espresso with hot water",
+    "price": 180,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "name": "Espresso Shot",
+    "image": "../src/assets/images/2.png",
+    "chef": "Mrs. Morisha",
+    "supplier": "BeanCraft",
+    "taste": "Strong and bold",
+    "category": "Espresso",
+    "details": "Pure espresso, no dilution",
+    "price": 160,
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "name": "Classic Cappuccino",
+    "image": "../src/assets/images/3.png",
+    "chef": "Mr. Moruti",
+    "supplier": "Foam & Brew",
+    "taste": "Creamy and rich",
+    "category": "Cappuccino",
+    "details": "Espresso with steamed milk foam",
+    "price": 200,
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "name": "Vanilla Macchiato",
+    "image": "../src/assets/images/4.png",
+    "chef": "Ms. Liana",
+    "supplier": "SweetBean Co.",
+    "taste": "Sweet and layered",
+    "category": "Macchiato",
+    "details": "Espresso with vanilla and milk",
+    "price": 210,
+    "rating": 4.5,
+    "available": true
+  },
+  {
+    "name": "Black Coffee",
+    "image": "../src/assets/images/5.png",
+    "chef": "Mr. Nirva Sweeden",
+    "supplier": "Brew Authority",
+    "taste": "Bitter and bold",
+    "category": "Black",
+    "details": "Brewed coffee without milk",
+    "price": 150,
+    "rating": 4.4,
+    "available": true
+  },
+  {
+    "name": "Decaf Delight",
+    "image": "../src/assets/images/6.png",
+    "chef": "Mr. Moruti",
+    "supplier": "Calm Roast",
+    "taste": "Smooth and mellow",
+    "category": "Decaf",
+    "details": "Decaffeinated espresso blend",
+    "price": 170,
+    "rating": 4.3,
+    "available": true
+  },
+  {
+    "name": "Iced Americano",
+    "image": "https://images.unsplash.com/photo-1578314675249-a6910f80cc4e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=714",
+    "chef": "Mr. Matin Paul",
+    "supplier": "Cappu Authorizer",
+    "taste": "Cool and refreshing",
+    "category": "Americano",
+    "details": "Espresso with chilled water and ice",
+    "price": 190,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "name": "Double Espresso",
+    "image": "https://plus.unsplash.com/premium_photo-1673459889157-a36fa2d47a9a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "chef": "Mrs. Morisha",
+    "supplier": "BeanCraft",
+    "taste": "Intense and sharp",
+    "category": "Espresso",
+    "details": "Two shots of espresso",
+    "price": 220,
+    "rating": 4.9,
+    "available": false
+  },
+  {
+    "name": "Hazelnut Cappuccino",
+    "image": "https://images.unsplash.com/photo-1585611647152-5adfa61544bf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "chef": "Mr. Moruti",
+    "supplier": "Foam & Brew",
+    "taste": "Nutty and creamy",
+    "category": "Cappuccino",
+    "details": "Cappuccino with hazelnut syrup",
+    "price": 210,
+    "rating": 4.7,
+    "available": true
+  },
+  {
+    "name": "Caramel Macchiato",
+    "image": "https://images.unsplash.com/photo-1658042968025-a52811c3c606?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "chef": "Ms. Liana",
+    "supplier": "SweetBean Co.",
+    "taste": "Sweet and silky",
+    "category": "Macchiato",
+    "details": "Espresso with caramel and milk",
+    "price": 220,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "name": "French Roast Black",
+    "image": "https://plus.unsplash.com/premium_photo-1669245207696-3190b528b956?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=660",
+    "chef": "Mr. Nirva Sweeden",
+    "supplier": "Brew Authority",
+    "taste": "Smoky and deep",
+    "category": "Black",
+    "details": "Dark roasted black coffee",
+    "price": 160,
+    "rating": 4.5,
+    "available": false
+  },
+  {
+    "name": "Decaf Mocha",
+    "image": "https://i.pinimg.com/1200x/fa/50/59/fa5059ae8792ae5b3f2df19a745bc55f.jpg",
+    "chef": "Mr. Moruti",
+    "supplier": "Calm Roast",
+    "taste": "Chocolatey and smooth",
+    "category": "Decaf",
+    "details": "Decaf with cocoa and milk",
+    "price": 180,
+    "rating": 4.4,
+    "available": true
+  },
+  {
+    "name": "Spiced Americano",
+    "image": "https://i.pinimg.com/1200x/56/61/7a/56617aade6bf4dbf2e1fca703cb2df1f.jpg",
+    "chef": "Mr. Matin Paul",
+    "supplier": "Cappu Authorizer",
+    "taste": "Warm and spicy",
+    "category": "Americano",
+    "details": "Americano with cinnamon and clove",
+    "price": 200,
+    "rating": 4.5,
+    "available": false
+  },
+  {
+    
+    "name": "Espresso Con Panna",
+    "image": "https://i.pinimg.com/1200x/b1/54/99/b154993fff28fedd6c51b76b51ada996.jpg",
+    "chef": "Mrs. Morisha",
+    "supplier": "BeanCraft",
+    "taste": "Bold and creamy",
+    "category": "Espresso",
+    "details": "Espresso topped with whipped cream",
+    "price": 190,
+    "rating": 4.7,
+    "available": true
+  },
+  {
+   
+    "name": "Cinnamon Cappuccino",
+    "image": "https://i.pinimg.com/1200x/31/df/12/31df12b83335be3348d45b9c4312caa4.jpg",
+    "chef": "Mr. Moruti",
+    "supplier": "Foam & Brew",
+    "taste": "Spicy and smooth",
+    "category": "Cappuccino",
+    "details": "Cappuccino with cinnamon dust",
+    "price": 200,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+  
+    "name": "Mocha Macchiato",
+    "image": "https://i.pinimg.com/736x/9b/73/41/9b7341f1c5fb743fb13ab3a6a5f29e1c.jpg",
+    "chef": "Ms. Liana",
+    "supplier": "SweetBean Co.",
+    "taste": "Chocolate and espresso",
+    "category": "Macchiato",
+    "details": "Macchiato with chocolate syrup",
+    "price": 230,
+    "rating": 4.5,
+    "available": true
+  },
+  {
+   
+    "name": "Cold Brew Black",
+    "image": "https://i.pinimg.com/736x/f8/b8/4b/f8b84b68877d5fb95da63d24bfac2592.jpg",
+    "chef": "Mr. Nirva Sweeden",
+    "supplier": "Brew Authority",
+    "taste": "Smooth and chilled",
+    "category": "Black",
+    "details": "Cold brewed black coffee",
+    "price": 170,
+    "rating": 4.6,
+    "available": false
+  },
+  {
+    
+    "name": "Decaf Latte",
+    "image": "https://i.pinimg.com/736x/09/b2/1e/09b21ebe4e7f3b937c7153b71d1f7021.jpg",
+    "chef": "Mr. Moruti",
+    "supplier": "Calm Roast",
+    "taste": "Mild and milky",
+    "category": "Decaf",
+    "details": "Decaf espresso with steamed milk",
+    "price": 190,
+    "rating": 4.3,
+    "available": true
+  },
+  {
+   
+    "name": "Honey Americano",
+    "image": "https://i.pinimg.com/1200x/78/42/3f/78423f8ae342b9dd7942acc8fb2d993c.jpg",
+    "chef": "Mr. Matin Paul",
+    "supplier": "Cappu Authorizer",
+    "taste": "Sweet and earthy",
+    "category": "Americano",
+    "details": "Americano with honey drizzle",
+    "price": 210,
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    
+    "name": "Iced Espresso",
+    "image": "https://i.pinimg.com/1200x/42/c0/05/42c005b2f24d4aa642d0f9dde4e32326.jpg",
+    "chef": "Mrs. Morisha",
+    "supplier": "BeanCraft",
+    "taste": "Cold and bold",
+    "category": "Espresso",
+    "details": "Espresso served over ice",
+    "price": 180,
+    "rating": 4.7,
+    "available": true
+  }
+]
